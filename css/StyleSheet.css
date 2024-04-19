@@ -1,0 +1,20 @@
+﻿body {
+    background-color: white;
+}
+.img1:hover{
+    border-style:solid;
+    box-shadow:solid;
+}
+.img:hover{
+    border-style:solid;
+    box-shadow:solid;
+}
+.img{
+            width:301px;
+            height:300px;
+        }
+h1{
+            align: center;
+        }
+
+

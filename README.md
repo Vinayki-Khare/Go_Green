@@ -1,11 +1,7 @@
-Install xampp.
+To run the project in browser.
 
-Put your project folder inside xampp>htdocs.
+Open project on Visual Studio.
 
-Open xampp control pannel and start Apache & MySQL server.
+Open index file of the project.
 
-Open localhost/phpmyadmin in the browser then click on new and create a database.
-
-Inside that database import the SQL file from project folder in the phpmyadmin.
-
-To run the project hit the localhost/projectFolderName in browser.
+Press Ctrl + Shift + O.
